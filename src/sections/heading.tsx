@@ -32,7 +32,7 @@ const Heading = () => {
         />
 
         <motion.h1 className={styles.title} variants={variants}>
-          Leotred
+          LEONID ROFLS
           <Cover type="horizontal" />
         </motion.h1>
 
