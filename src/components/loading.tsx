@@ -29,7 +29,7 @@ export default function Loading() {
           animate={{ x: 300 }}
           transition={{ duration: 10 }}
         >
-          leotred - хентай солярис - 3d - sex - leotred - хентай солярис - 3d - sex - leotred - хентай солярис - 3d - sex - leotred - хентай солярис - 3d - sex - leotred - хентай солярис - 3d - sex - leotred - хентай солярис - 3d - sex
+          LEOTRED - レオレッド - 3d-orgasm - лёнярофлс - LEOTRED - レオレッド - 3d-orgasm - лёнярофлс - LEOTRED - レオレッド - 3d-orgasm - лёнярофлс - LEOTRED - レオレッド - 3d-orgasm - лёнярофлс - LEOTRED - レオレッド - 3d-orgasm - лёнярофлс - LEOTRED - レオレッド - 3d-orgasm - лёнярофлс
         </motion.span>
       </div>
     </motion.section>
