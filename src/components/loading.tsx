@@ -23,16 +23,13 @@ export default function Loading() {
         className="loading-bar"
       />
       <div className="loading-text-container">
-        <h1>MATIN</h1>
+        <h1>leotred</h1>
         <motion.span
           initial={{ x: 0 }}
           animate={{ x: 300 }}
           transition={{ duration: 10 }}
         >
-          МАТИН - マティーン - 马笛 - มาทีน - متین - МАТИН - マティーン - 马笛 -
-          มาทีน - МАТИН - マティーン - 马笛 - มาทีน - متین - МАТИН - マティーン
-          - 马笛 - มาทีน - МАТИН - マティーン - 马笛 - มาทีน - متین - МАТИН -
-          マティーン - 马笛 - มาทีน
+          leotred - хентай солярис - 3d - sex - leotred - хентай солярис - 3d - sex - leotred - хентай солярис - 3d - sex - leotred - хентай солярис - 3d - sex - leotred - хентай солярис - 3d - sex - leotred - хентай солярис - 3d - sex
         </motion.span>
       </div>
     </motion.section>
