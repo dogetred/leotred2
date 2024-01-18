@@ -42,7 +42,7 @@ const Work = () => {
   return (
     <section className={styles.container}>
       <motion.h2 style={{ y }} className={styles.title}>
-        SOME OF MY SEXY SHIT
+        PROGRAMS I USE
       </motion.h2>
       {DB.work.map((item, i) => {
         return <WorkBar {...item} key={i} />;
