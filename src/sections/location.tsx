@@ -14,7 +14,7 @@ const Location = () => {
     <div className={styles.container}>
       <motion.h3 className={styles.title}>Based in</motion.h3>
       <motion.h1 style={{ x: x1 }} className={styles.title}>
-        Beijing
+        Moscow
       </motion.h1>
 
       <Canvas
@@ -36,13 +36,13 @@ const Location = () => {
         style={{ x: x3 }}
         className={styles.secondTitle + " align-right"}
       >
-        北京
+        sexy 3d
       </motion.h1>
       <motion.h3
         style={{ x: x2 }}
         className={styles.secondTitle + " align-right"}
       >
-        Open to relocation
+        я и не так умею ;)
       </motion.h3>
     </div>
   );
