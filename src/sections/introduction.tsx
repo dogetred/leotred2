@@ -11,12 +11,12 @@ const Introduction = () => {
       <InView containerRef={ref}>
         <AnimatedText
           className="heading-2 align-center"
-          text="I am an expert in frontend engineering, team management and avoiding"
+          text="Cool 3d modeler, ohuennyj chelovek, tovarich"
         />
         <span className={styles.lineThrough}>
           <AnimatedText
             className="heading-2 align-center"
-            text="The Internet Explorer"
+            text="and also cool programmer"
           />
         </span>
       </InView>
