@@ -1,6 +1,7 @@
 "use client";
 import styles from "./page.module.css";
 import Contact from "@/sections/contact";
+import Work from "@/sections/work";
 import Location from "@/sections/location";
 import Heading from "@/sections/heading";
 import Introduction from "@/sections/introduction";
@@ -27,6 +28,7 @@ export default function Home() {
       <Heading />
       <Introduction />
       <Location />
+      <Work />
       <Contact />
       <div
         style={{
