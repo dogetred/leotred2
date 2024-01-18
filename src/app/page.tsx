@@ -41,7 +41,7 @@ export default function Home() {
           color: "#fff",
         }}
       >
-        <small>Matin Nikookar - Portfolio 2023</small>
+        <small>лёня рофлс офишиал</small>
         <small>
           3D Model: Garden House, Forbidden City, Beijing, China - by Paul Marx
         </small>
