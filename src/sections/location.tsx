@@ -36,13 +36,13 @@ const Location = () => {
         style={{ x: x3 }}
         className={styles.secondTitle + " align-right"}
       >
-        sexy 3d
+        クールな3D
       </motion.h1>
       <motion.h3
         style={{ x: x2 }}
         className={styles.secondTitle + " align-right"}
       >
-        я и не так умею ;)
+        zaebatoe 3D
       </motion.h3>
     </div>
   );
