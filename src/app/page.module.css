@@ -1,0 +1,10 @@
+.main {
+  position: relative;
+  height: 100%;
+  display: flex;
+  flex-flow: column wrap;
+}
+
+.main > h1 {
+  margin-left: -12px;
+}
