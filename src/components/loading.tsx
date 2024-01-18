@@ -29,7 +29,7 @@ export default function Loading() {
           animate={{ x: 300 }}
           transition={{ duration: 10 }}
         >
-          LEOTRED - レオレッド - 3d-orgasm - лёнярофлс - LEOTRED - レオレッド - 3d-orgasm - лёнярофлс - LEOTRED - レオレッド - 3d-orgasm - лёнярофлс - LEOTRED - レオレッド - 3d-orgasm - лёнярофлс - LEOTRED - レオレッド - 3d-orgasm - лёнярофлс - LEOTRED - レオレッド - 3d-orgasm - лёнярофлс
+          LEOTRED - レオレッド - 3d-orgasm - лёнярофлс - 2024 - LEOTRED - レオレッド - 3d-orgasm - лёнярофлс - 2024 - LEOTRED - レオレッド - 3d-orgasm - лёнярофлс - 2024 - LEOTRED - レオレッド - 3d-orgasm - лёнярофлс - 2024 - LEOTRED - レオレッド - 3d-orgasm - лёнярофлс - 2024 - LEOTRED - レオレッド - 3d-orgasm - лёнярофлс - 2024 - 
         </motion.span>
       </div>
     </motion.section>
