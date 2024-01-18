@@ -32,14 +32,14 @@ const Heading = () => {
         />
 
         <motion.h1 className={styles.title} variants={variants}>
-          Engineer
+          Leotred
           <Cover type="horizontal" />
         </motion.h1>
 
         <AnimatedText
           className="heading-3 align-right"
           transition={{ delay: 0.3 }}
-          text="even though I do not LOOK like one"
+          text="in good relations with 3d, sexy man with big dick"
         />
       </motion.div>
     </section>
