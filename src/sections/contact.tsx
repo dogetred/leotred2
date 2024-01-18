@@ -76,20 +76,20 @@ const Contact = () => {
         <InView containerRef={titleContainer}>
           <AnimatedText
             className="heading-3"
-            text="Got a project to discuss? Let us connect"
+            text="Wanna cool 3d model? Let`s connect"
           />
         </InView>
       </motion.div>
       <motion.h1 transition={{ type: "keyframes" }} style={{ x }}>
-        CONTACT
+        call me
       </motion.h1>
       <div className={styles.barContainer}>
-        <ContactBar title="github" url="https://github.com/itsmatin" />
-        <ContactBar delay={0.3} title="CV" url="/matin-2023.pdf" />
+        <ContactBar title="telegram" url="https://t.me/leotred" />
+        <ContactBar delay={0.3} title="blog" url="t.me/leotreds" />
         <ContactBar
           delay={0.5}
-          title="LinkedIn"
-          url="https://www.linkedin.com/in/matinnikookar/"
+          title="@svpra"
+          url="https://github.com/svpra"
         />
       </div>
     </section>
