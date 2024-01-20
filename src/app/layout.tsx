@@ -16,16 +16,16 @@ const gudea = Gudea({
 });
 
 export const metadata: Metadata = {
-  title: "Matin Nikookar - Portfolio 2023",
+  title: "лёня рофлс сайт",
   icons: "./icon.png",
-  applicationName: "Matin Nikookar - Portfolio 2023",
+  applicationName: "лёня рофлс сайт",
   description:
-    "Matin Nikookar is a Software Engineer with focus on team management and frontend engineering.",
+    "leotred is cool 3d modeler with very heavy and big dick",
   twitter: {
     card: "summary_large_image",
-    title: "Matin Nikookar - Portfolio 2023",
+    title: "лёня рофлс сайт",
     description:
-      "Matin Nikookar is a Software Engineer with focus on team management and frontend engineering.",
+      "leotred is cool 3d modeler with very heavy and big dick",
     images: "./matin-hd.pngs",
   },
 };
