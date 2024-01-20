@@ -14,7 +14,7 @@ const Page = () => {
     >
       <div>
         {[...new Array(5)].map((item, i) => {
-          return <h1 key={i}>404</h1>;
+          return <h1 key={i}>404. Rofls not found here</h1>;
         })}
       </div>
       <div
@@ -42,7 +42,7 @@ const Page = () => {
               borderRadius: "100%",
             }}
           >
-            HOME
+            TO ROFLS
           </motion.span>
         </Link>
       </div>
