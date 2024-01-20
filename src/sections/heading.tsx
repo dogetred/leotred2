@@ -27,7 +27,7 @@ const Heading = () => {
       <motion.div style={{ y }}>
         <AnimatedText
           className="heading-3"
-          text={"I am an"}
+          text={"I am"}
           transition={{ delay: 0.3 }}
         />
 
