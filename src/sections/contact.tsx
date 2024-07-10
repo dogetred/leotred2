@@ -88,8 +88,8 @@ const Contact = () => {
         <ContactBar delay={0.3} title="blog" url="https://t.me/leotreds" />
         <ContactBar
           delay={0.5}
-          title="@svpra"
-          url="https://github.com/svpra"
+          title="adgb.ru"
+          url="https://adgb.ru/"
         />
       </div>
     </section>
